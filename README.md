@@ -1,11 +1,7 @@
 <h1 align="center">
 <img src="src/imagens/Readme.png"><br>
 
-
-https://github.com/LucasSilva2005/Meu-portifolio/assets/131619587/3800bff6-0643-432b-bb3e-5126d85bf2ba
-
-
-
+https://github.com/LucasSilva2005/Meu-portifolio/assets/131619587/3fe66b73-ff50-4e0a-9a22-4c67a3728c6d
   
 </h1>Este é um projeto simples do meu portifólio e das principais linguagens que eu domino
 <br><br>
